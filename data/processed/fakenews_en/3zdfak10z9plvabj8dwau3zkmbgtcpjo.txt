@@ -1,0 +1,100 @@
+#hashtag#   a week in security (august 20 – 26): a roundup of the security news from august 20 – 26, including a lo… #url#
+#hashtag#   recent app issues reveal facebook’s struggles to temper data privacy woes: facebook has been struggling… #url#
+#hashtag#   green card scams: preying on the desperate: most online scams depend on two things: a legitimate entity… #url#
+#hashtag# isb.downloader!gen133: risk level: very low.  #hashtag# #url#
+#hashtag#   poc code surfaces to exploit apache struts 2 vulnerability: researchers find proof-of-concept code that… #url#
+#hashtag# #hashtag#   scam - "#url#" is a fake cn and asia domain name registration website: the we… #url#
+#hashtag#   t-mobile alerts 2.3 million customers of data breach tied to leaky api: t-mobile alerts millions of its… #url#
+#hashtag# #hashtag#   ’22 foot 2500 pound’ crocodile photo: circulating photograph purportedly shows a 22 foot, 2500 pound… #url#
+#hashtag#   apple forces facebook vpn app out of ios store for stealing users' data: facebook yesterday removed its… #url#
+#hashtag# isb.downloader!gen138: risk level: very low. type: trojan.  #hashtag# #url#
+#hashtag# #hashtag#   beware of "yahoo your account has been blacklisted" phishing scams: yahoo users, be aware of "y… #url#
+#hashtag# backdoor.veilev!g1: risk level: very low. type: trojan.  #hashtag# #url#
+#hashtag#   critical flaw in fortnite android app lets hackers install malware: security researchers from google ha… #url#
+#hashtag#   dnc: highly publicized ‘phishing attempt’ was only a security test: dnc officials and lookout believed… #url#
+#hashtag#   side-channel attack allows remote listener to ‘hear’ on-screen images: the contents of the user’s scree… #url#
+#hashtag#   crashing mobile apps capture screens, leak private data: several developer tools capture a screen as an… #url#
+#hashtag#   new android malware framework turns apps into powerful spyware: security researchers have uncovered a n… #url#
+#hashtag# #hashtag#   beware of "zion store" - it is a fraudulent online store: the website "zion store" located at… #url#
+#hashtag#   mobile menace monday: fakegift is the gift that keeps on frustrating: last spring, we found yet another… #url#
+#hashtag# #hashtag#   the "closing and deleting your outlook account in progress" phishing scam: the "closing &amp; delet… #url#
+#hashtag# #hashtag#   ‘request to terminate your google account’ scam email: according to this email, which purports to be… #url#
+#hashtag#   hacker discloses unpatched windows zero-day vulnerability (with poc): a security researcher has publicl… #url#
+#hashtag#   at command hitch leaves android phones open to attack: researchers used at commands to rewrite device f… #url#
+#hashtag#   adobe patches critical photoshop flaws in unscheduled update: the two vulnerabilities are critical remo… #url#
+#hashtag#   apache struts 2 flaw uncovered: ‘more critical than equifax bug’: apache has patched a critical remote… #url#
+#hashtag# #hashtag#   the "amazon prime agent position" phishing scam: online users, beware of "amazon prime agent po… #url#
+#hashtag# #hashtag#   p&amp;o cruises ‘win a gift bag’ facebook scam: according to a post currently appearing on facebook, you… #url#
+#hashtag#   newsmaker interview: derek manky on ‘self-organizing botnet swarms’: botnets fused with artificial inte… #url#
+#hashtag# #hashtag#   the "sars efiling emp statement of account for taxpayer" scam: cybercriminals are attempting to… #url#
+#hashtag#   badgelife: a defcon 26 retrospective: another year, another defcon. in this retrospective, we take a lo… #url#
+#hashtag#   the 4 critical building blocks for digital threat hunting: having the right set of broad data is the li… #url#
+#hashtag# #hashtag#   beware of "sunglaes shot" - it is a fake ray-ban sunglass or eyewear selling website: the websi… #url#
+#hashtag#   mirai variant cross-compiles attack code with aboriginal linux: the approach makes mirai executable on… #url#
+#hashtag# backdoor.fallchill: risk level: very low. type: trojan.  #hashtag# #url#
+#hashtag# #hashtag#   the "mail service restriction permanent deactivation" phishing scam: the "mail service restrict… #url#
+#hashtag#   following facebook and twitter, google targets iranian influence operation: the news comes as president… #url#
+#hashtag# #hashtag#   the "paypal account has been suspended" phishing scam: paypal users, if you have received the "… #url#
+#hashtag# backdoor.datper: risk level: very low. type: trojan.  #hashtag# #url#
+#hashtag#   podcast: plugging leaky data in the cloud: threatpost talks to a google cloud expert about the top issu… #url#
+#hashtag#   triout malware carries out extensive, targeted android surveillance: the spyware’s surveillance capabil… #url#
+#hashtag#   threatlist: $1.1m is lost to cybercrime every minute of every day: every minute, there are also 5,518 r… #url#
+#hashtag# #hashtag#   ‘this bby has cancer’ facebook promotion scam: according to a post that is currently appearing on fac… #url#
+#hashtag# #hashtag#   "nawc shop" is a fraudulent online store - it should not be trusted: the website located at… #url#
+#hashtag# #hashtag#   "greencard organization" is a scam and fraudulent website: "greencard organization" at… #url#
+#hashtag#   fileless malware: getting the lowdown on this insidious threat: in this series of articles, we provide… #url#
+#hashtag# #hashtag#   review of "player outlet" at #url# - is it a trustworthy website?: see the re… #url#
+#hashtag# #hashtag#   "#url#" (domain name search engine registration) is a fraudulent website: "… #url#
+#hashtag# #hashtag#   ‘european debt recovery unit’ scam email: this email claims that an entity named the european debt re… #url#
+#hashtag# sonar.suspbeh!gen672: risk level: very low. type: trojan, virus, worm.  #hashtag# #url#
+#hashtag#   podcast: bad packets report founder on rising cryptojacking attacks: cryptojacking attacks are on the r… #url#
+#hashtag#   remote access scams: what's happened? watch out for the latest scam doing the rounds. scammers are impe… #url#
+#hashtag#   nsa leaker 'reality winner' gets more than 5 years in prison: a former nsa contractor, who pleaded guil… #url#
+#hashtag# #hashtag#   beware of "bmw automobile" lottery scams - do not be fooled by scammers: online users who have… #url#
+#hashtag#     massive wordpress redirect campaign targets vulnerable tagdiv themes and ultimate member plugins: thi… #url#
+#hashtag#     fake font dropper: every day we see different website infections. when we receive unusual or interest… #url#
+#hashtag# #hashtag#   the website #url# is a fraudulent work-from-home website: the website… #url#
+#hashtag# #hashtag#   ‘two moons in the sky’ mars hoax: according to a message that is currently circulating via social med… #url#
+#hashtag#  beware scammers wanting access to your computer and bank account: scammers are increasingly catching ou… #url#
+#hashtag#   new apache struts rce flaw lets hackers take over web servers: semmle security researcher man yue mo ha… #url#
+#hashtag# #hashtag#   #url# is a fake "the newham city lotto promo" lottery website: the website… #url#
+#hashtag#     core integrity verifications: in order to clean a malware infection, the first thing we need to know… #url#
+#hashtag# #hashtag#   the "ebusiness number or ebn registry 2018/2019" scam: the "ebusiness number or ebn registry 20… #url#
+#hashtag# #hashtag#   "tp kids toys" online store is fraudulent - do not shop there: the "tp kids toys" online store… #url#
+#hashtag# #hashtag#   ‘spider from hell’ hoax message spreading rapidly: according to a message that is currently going vir… #url#
+#hashtag# #hashtag#   the "amazon account locked" phishing scams being sent by cybercriminals: amazon users, be aware… #url#
+#hashtag# #hashtag#   beware of "amazon recruiting center" phishing scam: online users, beware of "amazon recruiting… #url#
+#hashtag# #hashtag#   the "toyota promo bonanza" lottery scam: there is no "toyota promo bonanza" lottery like the on… #url#
+#hashtag#   t-mobile hacked — 2 million customers' personal data stolen: t-mobile today confirmed that the telecom… #url#
+#hashtag#   threatlist: ransomware attacks down, fileless malware up in 2018: the first half of 2018 saw an uptick… #url#
+#hashtag#   dnc becomes latest target in series of election-season attacks: the dnc thwarts a phishing effort aimed… #url#
+#hashtag#   instagram adds 3 new security tools to make its platform more secure: instagram is growing quickly—and… #url#
+#hashtag#   fortnite android app falls victim to man-in-the-disk flaw: after google publicized the flaw seven days… #url#
+#hashtag#   security and artificial intelligence: hype vs. reality: bridging the divide between hype and reality wh… #url#
+#hashtag# sonar.susplaunch!g62: risk level: very low. type: trojan, virus, worm.  #hashtag# #url#
+#hashtag#   unpatched ghostscript flaws allow remote takeover of systems: a remote, unauthenticated attacker could… #url#
+#hashtag# #hashtag#   the "office365 request to terminate email" phishing scam: the fake email message below which cl… #url#
+#hashtag#   researchers shine light on smart-bulb data theft: the attack allows snooping of data from environments… #url#
+#hashtag#   advisorsbot downloader emerges in raft of malware campaigns: a tricky downloader has hit the scene in a… #url#
+#hashtag# #hashtag#   the "cibc system-hold put on your account alert" phishing scam: the fake email alert below, whi… #url#
+#hashtag# #hashtag#   the "amazon customs claim - investigation started" scam: amazon customers are asked to delete "… #url#
+#hashtag# #hashtag#   beware of "yahoo oath brand network account verification failure" phishing scams: yahoo users,… #url#
+#hashtag#   high-severity flaws patched in schneider electric products: the schneider electric powerlogic pm5560 an… #url#
+#hashtag# #hashtag#   beware of "vipadd shop" at #url# - it is a fraudulent online store: the "vipa… #url#
+#hashtag# #hashtag#   the "your apple account is frozen" phishing scam: the email message below, which claims that th… #url#
+#hashtag# #hashtag#   lauren and the *677 police dispatch cell phone number: circulating message describes how a young woma… #url#
+#hashtag# pua:win32/fusioncore: alert level   severe    category   pua    protection starting from:   1.249.1002.… #url#
+#hashtag# #hashtag#   fake oprah facebook page promises cash for likes and shares: a fraudulent facebook page that claims t… #url#
+#hashtag# #hashtag#   jamaica national commercial (ncb) warns of scam using point of sale machines: the jamaica natio… #url#
+#hashtag#   facebook flaw allowed remote commands: facebook failed to fully sanitize error data returned by a publi… #url#
+#hashtag# #hashtag#   beware of "yahoo account termination notice" phishing scams: yahoo users, be aware of "account… #url#
+#hashtag# #hashtag#   no, the pope didn’t say that his religion was ‘all a load of bollocks’: according to a post that is c… #url#
+#hashtag# #hashtag#   "ear phone outlet" is a fake and fraudulent bose website: the "ear phone outlet" online store l… #url#
+#hashtag#   adobe pushes out unscheduled creative cloud application fix: adobe issues a second unscheduled update t… #url#
+#hashtag#   cheddar’s restaurants bitten by credit-card breach: restaurants in 23 states were compromised for two m… #url#
+#hashtag#   cross-site scripting flaw in apache activemq threatens web visitors: with the malicious code embedded i… #url#
+#hashtag#   can search extensions keep your searches private?: a lot of search extensions have been marketed over t… #url#
+#hashtag# #hashtag#   the "delete your account from gmail server" phishing scam: gmail users, be aware of the fake "d… #url#
+#hashtag#   researchers blame ‘monolithic’ linux code base for critical vulnerabilities: with an os design based on… #url#
+#hashtag#   microsoft windows zero-day found in task scheduler: a windows task scheduler api function does not chec… #url#
+#hashtag#   official cardi b website plagued by spammers: over the past few days, fans of singer cardi b noticed he… #url#
